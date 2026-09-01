@@ -56,7 +56,7 @@
 
 <h2>Explore Lab Tests on MediCompares</h2>
 
-<p>Ready to explore your options? Visit <a href="https://www.medicompares.com/lab-tests" target="_blank" rel="noopener noreferrer"><strong>MediCompares Lab Tests</strong></a> to discover different lab test categories and available healthcare options.</p>
+<p>Ready to explore your options?<strong>MediCompares Lab Tests</strong></a> to discover different lab test categories and available healthcare options.</p>
 
 <p><strong>MediCompares — Compare. Choose. Book.</strong></p>
 
