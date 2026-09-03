@@ -8,3 +8,5 @@
 <p>The comparison itself does not need to be complicated. Look up the treatment you need, check a few clinics nearby, compare what they charge and what is included in that price, and then decide based on what actually makes sense for you, whether that is cost, convenience, or the dentist's experience. A little research here saves you from unpleasant surprises later, especially with treatments that need multiple visits.</p>
 
 <p>Dental care is one of those expenses that sneaks up on people, so it is worth treating it the same way you would treat any other big purchase, by checking your options first instead of just booking blind. A few minutes of comparing now can genuinely make a difference to what you end up paying.</p>
+
+<a href:"https://medicompares.com/">MediCompares</a>
