@@ -9,4 +9,4 @@
 
 <p>Dental care is one of those expenses that sneaks up on people, so it is worth treating it the same way you would treat any other big purchase, by checking your options first instead of just booking blind. A few minutes of comparing now can genuinely make a difference to what you end up paying.</p>
 
-<a href:"https://medicompares.com/">MediCompares</a>
+<a href="https://medicompares.com/">MediCompares</a> 
